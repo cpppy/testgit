@@ -1,0 +1,17 @@
+learn git 
+
+1.introduction to git 
+http://blog.jobbole.com/78960/
+
+ps:(
+	error1:
+	at first time you will meet a problem at positon( git push -u origin master)
+	error code : master --> master(fecth first)
+	information resource: https://my.oschina.net/juwenz/blog/153350
+	solve :	pull the repository from github.com at first (git pull origin master)
+			and then,"git push -u origin master" will be done!
+			
+	error2:
+	
+	)
+			
